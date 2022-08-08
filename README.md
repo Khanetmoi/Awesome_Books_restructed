@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 - git init
-- git clone https://github.com/Khanetmoi/MicroversePortfolio.git
+- git clone https://github.com/Khanetmoi/Awesome_Books_restructed.git
 
 
     
